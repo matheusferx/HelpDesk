@@ -1,5 +1,5 @@
 Helpdesk API - Back-End (C# & SQL Server)
-Este repositório contém apenas o back-end do sistema de Helpdesk, desenvolvido em C# com SQL Server e Swagger para documentação da API.
+Este repositório contém apenas o back-end do sistema de Helpdesk, desenvolvido em C# com SQL Server e Swagger para documentação da API. Feito por Matheus Fernandes!
 
 🚨 Aviso
 O projeto foi originalmente hospedado no Azure, mas meu plano de estudante expirou. Portanto, para rodar localmente, siga as instruções abaixo.
@@ -13,8 +13,8 @@ O projeto foi originalmente hospedado no Azure, mas meu plano de estudante expir
 Abra o terminal e execute:
 
 sh
-git clone https://github.com/seu-usuario/helpdesk-api.git  
-cd helpdesk-api
+git clone https://github.com/matheusferx/HelpDesk.git  
+cd HelpDesk
 
 
 2️⃣ Configurar o banco de dados
